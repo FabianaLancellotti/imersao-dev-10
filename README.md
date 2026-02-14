@@ -33,5 +33,5 @@ Sugestão: Use a extensão Live Server no VS Code ou o comando python -m http.se
 ![Pesquisa](/screenshots/Pesquisa.png)
 
 ## 👩‍💻 Autora
-Fabiana Lancellotti
+Fabiana Lancellotti  
 Transição de carreira para Data Analytics / BI
