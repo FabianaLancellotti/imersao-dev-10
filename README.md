@@ -41,6 +41,11 @@ Sugestão: Use a extensão Live Server no VS Code ou o comando python -m http.se
 
 Acesse localhost no seu navegador para interagir com a base.
 
+## 📷 Preview
+
+![Tela Inicial](screenshots/telainicial.png)
+![Tela Inicial + Pesquisa](screenshots/tela+pesquisa.png)
+
 👩‍💻 Autora
 Fabiana Lancellotti
 Transição de carreira para Data Analytics / BI
