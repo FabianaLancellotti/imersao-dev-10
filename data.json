@@ -1,0 +1,200 @@
+[
+{
+ "nome":"Numpy",
+ "descricao":"NumPy é um projeto de código aberto que permite computação numérica com Python.",
+ "ano": 2005,
+ "link": "https://numpy.org/"
+},
+{
+ "nome":"Pandas",
+ "descricao":"Pandas é uma ferramenta de análise e manipulação de dados de código aberto, construída sobre a linguagem de programação Python.",
+ "ano": 2008,
+ "link": "https://pandas.pydata.org/"
+},
+{
+ "nome": "Matplotlib",
+ "descricao": "Matplotlib é uma biblioteca abrangente para criar visualizações estáticas, animadas e interativas em Python.",
+ "ano": 2003,
+ "link": "https://matplotlib.org/"
+},
+{
+ "nome": "Scikit-learn",
+ "descricao": "Scikit-learn é uma biblioteca de aprendizado de máquina simples e eficiente para análise preditiva de dados.",
+ "ano": 2007,
+ "link": "https://scikit-learn.org/"
+},
+{
+ "nome": "Django",
+ "descricao": "Django é um framework web Python de alto nível que incentiva o desenvolvimento rápido e um design limpo e pragmático.",
+ "ano": 2005,
+ "link": "https://www.djangoproject.com/"
+},
+{
+ "nome": "Flask",
+ "descricao": "Flask é um micro framework web escrito em Python. É classificado como um microframework porque não requer ferramentas ou bibliotecas particulares.",
+ "ano": 2010,
+ "link": "https://flask.palletsprojects.com/"
+},
+{
+ "nome": "TensorFlow",
+ "descricao": "Uma plataforma de código aberto de ponta a ponta para aprendizado de máquina.",
+ "ano": 2015,
+ "link": "https://www.tensorflow.org/"
+},
+{
+ "nome": "Keras",
+ "descricao": "Uma API de redes neurais de alto nível, capaz de rodar em cima do TensorFlow, CNTK ou Theano.",
+ "ano": 2015,
+ "link": "https://keras.io/"
+},
+{
+ "nome": "PyTorch",
+ "descricao": "Uma biblioteca de aprendizado de máquina de código aberto baseada na biblioteca Torch.",
+ "ano": 2016,
+ "link": "https://pytorch.org/"
+},
+{
+ "nome": "SciPy",
+ "descricao": "Uma biblioteca de código aberto de ferramentas e algoritmos matemáticos para Python.",
+ "ano": 2001,
+ "link": "https://scipy.org/"
+},
+{
+ "nome": "Seaborn",
+ "descricao": "Uma biblioteca de visualização de dados Python baseada no matplotlib.",
+ "ano": 2012,
+ "link": "https://seaborn.pydata.org/"
+},
+{
+ "nome": "Statsmodels",
+ "descricao": "Fornece classes e funções para a estimativa de muitos modelos estatísticos diferentes.",
+ "ano": 2009,
+ "link": "https://www.statsmodels.org/"
+},
+{
+ "nome": "Plotly",
+ "descricao": "Uma biblioteca de gráficos interativa e de código aberto.",
+ "ano": 2012,
+ "link": "https://plotly.com/python/"
+},
+{
+ "nome": "Bokeh",
+ "descricao": "Uma biblioteca de visualização interativa para navegadores da web modernos.",
+ "ano": 2013,
+ "link": "https://bokeh.org/"
+},
+{
+ "nome": "Scrapy",
+ "descricao": "Um framework para extrair os dados que você precisa de sites.",
+ "ano": 2008,
+ "link": "https://scrapy.org/"
+},
+{
+ "nome": "Beautiful Soup",
+ "descricao": "Uma biblioteca Python para extrair dados de arquivos HTML e XML.",
+ "ano": 2004,
+ "link": "https://www.crummy.com/software/BeautifulSoup/"
+},
+{
+ "nome": "XGBoost",
+ "descricao": "Uma biblioteca otimizada de gradient boosting distribuído.",
+ "ano": 2014,
+ "link": "https://xgboost.readthedocs.io/"
+},
+{
+ "nome": "LightGBM",
+ "descricao": "Um framework de gradient boosting que usa algoritmos de aprendizado baseados em árvores.",
+ "ano": 2016,
+ "link": "https://lightgbm.readthedocs.io/"
+},
+{
+ "nome": "CatBoost",
+ "descricao": "Uma biblioteca de gradient boosting em árvores de decisão.",
+ "ano": 2017,
+ "link": "https://catboost.ai/"
+},
+{
+ "nome": "SpaCy",
+ "descricao": "Uma biblioteca de código aberto para Processamento de Linguagem Natural avançado.",
+ "ano": 2015,
+ "link": "https://spacy.io/"
+},
+{
+ "nome": "NLTK",
+ "descricao": "Uma plataforma líder para construir programas Python para trabalhar com dados de linguagem humana.",
+ "ano": 2001,
+ "link": "https://www.nltk.org/"
+},
+{
+ "nome": "Gensim",
+ "descricao": "Biblioteca para modelagem de tópicos e processamento de linguagem natural.",
+ "ano": 2009,
+ "link": "https://radimrehurek.com/gensim/"
+},
+{
+ "nome": "Theano",
+ "descricao": "Biblioteca para definir, otimizar e avaliar expressões matemáticas envolvendo matrizes multidimensionais.",
+ "ano": 2007,
+ "link": "https://github.com/Theano/Theano"
+},
+{
+ "nome": "Eli5",
+ "descricao": "Uma biblioteca Python que permite visualizar e depurar modelos de aprendizado de máquina.",
+ "ano": 2016,
+ "link": "https://eli5.readthedocs.io/"
+},
+{
+ "nome": "PyBrain",
+ "descricao": "Uma biblioteca modular de Machine Learning para Python.",
+ "ano": 2010,
+ "link": "http://pybrain.org/"
+},
+{
+ "nome": "Caffe2",
+ "descricao": "Um framework de aprendizado profundo leve, modular e escalável.",
+ "ano": 2017,
+ "link": "https://caffe2.ai/"
+},
+{
+ "nome": "Chainer",
+ "descricao": "Um framework de aprendizado profundo baseado em Python.",
+ "ano": 2015,
+ "link": "https://chainer.org/"
+},
+{
+ "nome": "Pydot",
+ "descricao": "Interface Python para o Graphviz e a linguagem DOT.",
+ "ano": 2008,
+ "link": "https://pypi.org/project/pydot/"
+},
+{
+ "nome": "Dash",
+ "descricao": "Um framework Python para construir aplicações web analíticas.",
+ "ano": 2017,
+ "link": "https://dash.plotly.com/"
+},
+{
+ "nome": "PyCaret",
+ "descricao": "Biblioteca de aprendizado de máquina open-source e low-code em Python.",
+ "ano": 2020,
+ "link": "https://pycaret.org/"
+},
+{
+ "nome": "Elephas",
+ "descricao": "Extensão do Keras para aprendizado profundo distribuído com Spark.",
+ "ano": 2015,
+ "link": "https://github.com/maxpumperla/elephas"
+},
+{
+ "nome": "Streamlit",
+ "descricao": "Transforma scripts de dados em aplicativos web compartilháveis rapidamente.",
+ "ano": 2019,
+ "link": "https://streamlit.io/"
+},
+{
+ "nome": "SQLAlchemy",
+ "descricao": "Kit de ferramentas SQL e Mapeador Objeto-Relacional (ORM) para Python.",
+ "ano": 2006,
+ "link": "https://www.sqlalchemy.org/"
+}
+]
