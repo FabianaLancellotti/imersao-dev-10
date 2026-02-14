@@ -43,8 +43,8 @@ Acesse localhost no seu navegador para interagir com a base.
 
 ## 📷 Preview
 
-![Tela Inicial](screenshots/telainicial.png)
-![Pesquisa](screenshots/Tela + Pesquisa.png).
+![Home](screenshots/Telainicial.png)
+![Pesquisa](screenshots/Tela+Pesquisa.png)
 
 👩‍💻 Autora
 Fabiana Lancellotti
