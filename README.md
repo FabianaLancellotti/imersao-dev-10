@@ -43,8 +43,7 @@ Acesse localhost no seu navegador para interagir com a base.
 
 ## 📷 Preview
 
-![Home](/screenshots/Home.png)
-![Pesquisa](/screenshots/Pesquisa.png)
+![Home](/screenshots/Home.png) | ![Pesquisa](/screenshots/Pesquisa.png)
 
 👩‍💻 Autora
 Fabiana Lancellotti
